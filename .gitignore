@@ -1,0 +1,15 @@
+# Compiled files
+*.out
+*.exe
+
+# Mac system files
+.DS_Store
+
+# Debug files
+*.dSYM
+
+# Output folder
+output/
+
+# Temporary files
+*.log
